@@ -1,2 +1,2 @@
-mysql-connector-python >= 2.0.5
+mysql-connector-python >= 2.1.5
 python >= 2.7
