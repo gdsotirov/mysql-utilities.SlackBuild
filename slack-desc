@@ -1,0 +1,13 @@
+mysql-utilities: MySQL Utilities (a collection of Python utilities for MySQL)
+mysql-utilities:
+mysql-utilities: MySQL Utilities provides a collection of command-line
+mysql-utilities: utilities that are used for maintaining and administering
+mysql-utilities: MySQL servers, including:
+mysql-utilities:  * Admin Utilities (Clone, Copy, Compare, Diff, Export,
+mysql-utilities:                     Import, User Management)
+mysql-utilities:  * Replication Utilities (Setup, Configuration, Verification)
+mysql-utilities:  * General Utilities (Disk Usage, Redundant Indexes, Manage
+mysql-utilities:                       Meta & Audit Data)
+mysql-utilities:  * And more
+mysql-utilities: 
+mysql-utilities: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
