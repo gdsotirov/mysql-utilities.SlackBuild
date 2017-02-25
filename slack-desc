@@ -1,13 +1,19 @@
-mysql-utilities: MySQL Utilities (a collection of Python utilities for MySQL)
+mysql-utilities: MySQL Utilities (a collection of Python tools for MySQL)
 mysql-utilities:
-mysql-utilities: MySQL Utilities provides a collection of command-line
-mysql-utilities: utilities that are used for maintaining and administering
-mysql-utilities: MySQL servers, including:
-mysql-utilities:  * Admin Utilities (Clone, Copy, Compare, Diff, Export,
-mysql-utilities:                     Import, User Management)
-mysql-utilities:  * Replication Utilities (Setup, Configuration, Verification)
-mysql-utilities:  * General Utilities (Disk Usage, Redundant Indexes, Manage
-mysql-utilities:                       Meta & Audit Data)
-mysql-utilities:  * And more
-mysql-utilities: 
+mysql-utilities: MySQL Utilities provides a collection of Python command-line
+mysql-utilities: tools that are used to assist in maintaining and administering
+mysql-utilities: MySQL servers; achieving with a single command what would
+mysql-utilities: otherwise involve many steps or complex scripting.
+mysql-utilities: The following tools are included:
+mysql-utilities:   * Admin Utilities (Clone, Copy, Compare, Diff, Export,
+mysql-utilities:                      Import, User Management)
+mysql-utilities:   * Replication Utilities (Setup, Configuration, Verification)
+mysql-utilities:   * General Utilities (Disk Usage, Redundant Indexes, Manage
+mysql-utilities:                        Meta & Audit Data)
+mysql-utilities:   * And more
+mysql-utilities: DevOps teams can take advantage of MySQL Utilities either by
+mysql-utilities: using the existing utilities or, since they're written in
+mysql-utilities: Python, customizing them for their needs. This permits DevOps
+mysql-utilities: teams to focus on activities that directly grow your business.
+mysql-utilities:
 mysql-utilities: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
