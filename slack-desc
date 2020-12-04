@@ -16,4 +16,4 @@ mysql-utilities: using the existing utilities or, since they're written in
 mysql-utilities: Python, customizing them for their needs. This permits DevOps
 mysql-utilities: teams to focus on activities that directly grow your business.
 mysql-utilities:
-mysql-utilities: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+mysql-utilities: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
